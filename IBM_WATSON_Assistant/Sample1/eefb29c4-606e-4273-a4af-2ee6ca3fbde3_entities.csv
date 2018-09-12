@@ -1,0 +1,23 @@
+holiday,christmas eve,x mas eve,x-mas eve,xmas eve
+holiday,memorial day
+holiday,new years,1/1,jan 1,jan 1st,jan first,january 1,january 1st,january first,new year,new year day,new years day
+holiday,new years eve,12-31,12/31,dec 31,dec 31st,new year's eve
+holiday,thanksgiving,turkey day
+holiday,halloween
+holiday,christmas,christmas day,x man day,xmas,x mas,x-mas,x-mas day,xmas day
+holiday,valentine's day,valentine day,valentines day
+holiday,independence day,7/4,fourth of july,july 4,july 4th,july fourth
+holiday,labor day
+landmark,empire state building,empire state,emprire state
+landmark,grand central
+landmark,times square,time sqaure,time square,times sqaure
+phone,US Phone pattern,/(\d{3})-(\d{3})-(\d{4})/
+reply,yes,definitely,go for it,let's do it,ok,please,sure,why not,yeah,yes,you bet,you betcha,yep
+reply,no,definitely not,don't think so,dont think so,i think not,nope,not at this time,not now
+specialist,Maria
+specialist,Nicholas,nick
+specialist,Robert,bob
+specialist,Barbara,barbra
+specialist,Brenda
+specialist,Derrik,derek,derik,derrik,derrick
+zip_code,US Zip,/(\b|\s)\d{5}(\b|\s)/
